@@ -1,0 +1,122 @@
+Printing addAuto: FordZTW.ser
+Printing addAuto: UglyBus6000.ser
+
+Printing Automotive WITH SYNC:
+Name: FordZTW
+Base Price: 18445.00
+Option: Rainbow
+1: Fort Knox Gold Clearcoat Metallic = 0.00
+2: Liquid Grey Clearcoat Metallic = 0.00
+3: Infra-Red Clearcoat = 0.00
+4: Grabber Green Clearcoat Metallic = 0.00
+5: Sangria Red Clearcoat Metallic = 0.00
+6: French Blue Clearcoat Metallic = 0.00
+7: Twilight Blue Clearcoat Metallic = 0.00
+8: CD Silver Clearcoat Metallic = 0.00
+9: Pitch Black Clearcoat = 0.00
+10: Cloud 9 White Clearcoat = 0.00
+Option: Transmission
+1: automatic = 0.00
+2: manual = -815.00
+Option: Brakes/Traction Control
+1: Standard = 0.00
+2: ABS = 400.00
+3: ABS with Advance Trac = 1625.00
+Option: Side Impact Air Bags
+1: present = 350.00
+2: not present = 0.00
+Option: Power Moonroof
+1: present = 595.00
+2: not present = 0.00
+End of Printing WITH SYNC
+
+
+Printing Automotive WITH SYNC:
+Name: FordZTW
+Base Price: 18445.00
+Option: NOTRainbow
+1: Fort Knox Gold Clearcoat Metallic = 0.00
+2: Liquid Grey Clearcoat Metallic = 0.00
+3: Infra-Red Clearcoat = 0.00
+4: Grabber Green Clearcoat Metallic = 0.00
+5: Sangria Red Clearcoat Metallic = 0.00
+6: French Blue Clearcoat Metallic = 0.00
+7: Twilight Blue Clearcoat Metallic = 0.00
+8: CD Silver Clearcoat Metallic = 0.00
+9: Pitch Black Clearcoat = 0.00
+10: Cloud 9 White Clearcoat = 0.00
+Option: Transmission
+1: automatic = 0.00
+2: manual = -815.00
+Option: Brakes/Traction Control
+1: Standard = 0.00
+2: ABS = 400.00
+3: ABS with Advance Trac = 1625.00
+Option: Side Impact Air Bags
+1: present = 350.00
+2: not present = 0.00
+Option: Power Moonroof
+1: present = 595.00
+2: not present = 0.00
+End of Printing WITH SYNC
+
+
+Printing Automotive W/O SYNC:
+Name: FordZTW
+Base Price: 18445.00
+Option: NOTRainbow
+Printing Automotive W/O SYNC:
+Name: FordZTW
+Base Price: 18445.00
+Option: NOTRainbow
+1: Fort Knox Gold Clearcoat Metallic = 0.00
+1: Fort Knox Gold Clearcoat Metallic = 0.00
+2: Liquid Grey Clearcoat Metallic = 0.00
+2: Liquid Grey Clearcoat Metallic = 0.00
+3: Infra-Red Clearcoat = 0.00
+3: Infra-Red Clearcoat = 0.00
+4: Grabber Green Clearcoat Metallic = 0.00
+4: Grabber Green Clearcoat Metallic = 0.00
+5: Sangria Red Clearcoat Metallic = 0.00
+5: Sangria Red Clearcoat Metallic = 0.00
+6: French Blue Clearcoat Metallic = 0.00
+6: French Blue Clearcoat Metallic = 0.00
+7: Twilight Blue Clearcoat Metallic = 0.00
+7: Twilight Blue Clearcoat Metallic = 0.00
+8: CD Silver Clearcoat Metallic = 0.00
+8: CD Silver Clearcoat Metallic = 0.00
+9: Pitch Black Clearcoat = 0.00
+9: Pitch Black Clearcoat = 0.00
+10: Cloud 9 White Clearcoat = 0.00
+Option: Transmission
+10: Cloud 9 White Clearcoat = 0.00
+Option: Transmission
+1: automatic = 0.00
+1: automatic = 0.00
+2: manual = -815.00
+Option: Brakes/Traction Control
+2: manual = -815.00
+Option: Brakes/Traction Control
+1: Standard = 0.00
+1: Standard = 0.00
+2: ABS = 400.00
+2: ABS = 400.00
+3: ABS with Advance Trac = 1625.00
+Option: Side Impact Air Bags
+3: ABS with Advance Trac = 1625.00
+Option: Side Impact Air Bags
+1: present = 350.00
+1: present = 350.00
+2: not present = 0.00
+Option: Power Moonroof
+2: not present = 0.00
+Option: Power Moonroof
+1: present = 595.00
+1: present = 595.00
+2: not present = 0.00
+End of Printing W/O SYNC
+
+
+2: not present = 0.00
+End of Printing W/O SYNC
+

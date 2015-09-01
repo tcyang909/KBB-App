@@ -1,0 +1,6 @@
+FordZTW,18445
+Color,Fort Knox Gold Clearcoat Metallic,Liquid Grey Clearcoat Metallic,Infra-Red Clearcoat,Grabber Green Clearcoat Metallic,Sangria Red Clearcoat Metallic,French Blue Clearcoat Metallic,Twilight Blue Clearcoat Metallic,CD Silver Clearcoat Metallic,Pitch Black Clearcoat,Cloud 9 White Clearcoat
+Transmission,automatic,manual,-815
+Brakes/Traction Control,Standard,ABS,400,ABS with Advance Trac,1625
+Side Impact Air Bags,present,350,not present
+Power Moonroof,present,595,not present

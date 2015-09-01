@@ -1,0 +1,6 @@
+Ugly Bus 6000,100
+Weird Color,Tacky Tan,Wacky White,Hideous Hibiscus,Awful Amber,Repulsive Red,Sickly Silver,Vile Violet,Mystery Color
+Transmission,Done4You,Do-It-Yourself,-50
+Brakes/Traction Control,Standard,None,6000
+Oil Type,Standard,Organic,-100,Olive,6000
+Headlights,Standard,LED,500,Strobe,600,Disco-Strobe,6000
